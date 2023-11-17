@@ -80,3 +80,7 @@ Plotted maps, scatter plots, histograms, and heatmaps to visualize spatial and d
 
 The project sheds light on various aspects influencing housing prices, offering insights into spatial relationships and key factors impacting property costs across cities in Germany.
 
+## Tableau presentation link:
+
+[
+](https://public.tableau.com/app/profile/jm.ih.da/viz/Book1_17001905343850/Dashboard7)https://public.tableau.com/app/profile/jm.ih.da/viz/Book1_17001905343850/Dashboard7
